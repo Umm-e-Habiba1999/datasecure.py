@@ -185,3 +185,5 @@ elif choice == "Retrieve Data":
                         st.experimental_rerun()
             else:
                 st.error("⚠️ Provide both encrypted text and passkey.")
+
+st.markdown("👨‍💻 Developed by **Umm-E-Habiba**", unsafe_allow_html=True)
