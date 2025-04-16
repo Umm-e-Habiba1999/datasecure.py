@@ -3,7 +3,7 @@ import hashlib
 import os
 import json
 from cryptography.fernet import Fernet
-from base64 import urlsafe_b64encod
+from base64 import urlsafe_b64encode
 
 # ------------------ Setup & Initialization ------------------
 
